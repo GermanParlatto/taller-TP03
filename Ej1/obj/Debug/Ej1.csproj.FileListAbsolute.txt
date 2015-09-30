@@ -1,0 +1,6 @@
+c:\users\german\documents\visual studio 2015\Projects\TP3\Ej1\bin\Debug\Ej1.exe.config
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej1\bin\Debug\Ej1.exe
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej1\bin\Debug\Ej1.pdb
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej1\obj\Debug\Ej1.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej1\obj\Debug\Ej1.exe
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej1\obj\Debug\Ej1.pdb

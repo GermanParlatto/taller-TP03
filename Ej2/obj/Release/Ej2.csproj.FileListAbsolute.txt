@@ -1,0 +1,6 @@
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej2\bin\Release\Ej2.exe.config
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej2\bin\Release\Ej2.exe
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej2\bin\Release\Ej2.pdb
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej2\obj\Release\Ej2.exe
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej2\obj\Release\Ej2.pdb
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej2\obj\Release\Ej2.csprojResolveAssemblyReference.cache

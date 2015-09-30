@@ -1,0 +1,6 @@
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3\bin\Release\Ej3.exe.config
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3\bin\Release\Ej3.exe
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3\bin\Release\Ej3.pdb
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3\obj\Release\Ej3.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3\obj\Release\Ej3.exe
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3\obj\Release\Ej3.pdb

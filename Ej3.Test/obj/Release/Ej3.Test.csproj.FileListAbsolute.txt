@@ -1,0 +1,9 @@
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\bin\Release\Ej3.Test.dll
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\bin\Release\Ej3.Test.pdb
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\bin\Release\Ej3.exe
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\bin\Release\Ej3.pdb
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\bin\Release\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\obj\Release\Ej3.Test.csprojResolveAssemblyReference.cache
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\obj\Release\Ej3.Test.dll
+C:\Users\German\Documents\Visual Studio 2015\Projects\TP3\Ej3.Test\obj\Release\Ej3.Test.pdb
